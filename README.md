@@ -43,7 +43,7 @@ The purpose of this homework was to be able to finish the code that was provided
 No contribbution required
 
 ## Usage
-[link for video showing usage here!](<iframe src="https://drive.google.com/file/d/16ukjUUnfeWXAR88rOlOA2MFBLJ5n7Nb3/preview" width="640" height="480"></iframe>)
+[link for video showing usage here!](https://drive.google.com/file/d/16ukjUUnfeWXAR88rOlOA2MFBLJ5n7Nb3/view)
 ## Installation
 fork the github and run run npm i.
 
