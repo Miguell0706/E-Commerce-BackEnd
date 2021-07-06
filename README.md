@@ -43,8 +43,7 @@ The purpose of this homework was to be able to finish the code that was provided
 No contribbution required
 
 ## Usage
-None
-
+[link for video showing usage here!](https://drive.google.com/file/d/16ukjUUnfeWXAR88rOlOA2MFBLJ5n7Nb3/view_)
 ## Installation
 fork the github and run run npm i.
 
