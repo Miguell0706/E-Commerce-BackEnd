@@ -33,9 +33,11 @@ The purpose of this homework was to be able to finish the code that was provided
 
 *[Questions](#questions)
 
+### Adding a new product with POST
+![Screenshot (1749)](https://user-images.githubusercontent.com/82692900/124544682-66130c00-dddc-11eb-8e84-7d0fbc9aa3aa.png)
 
-
-
+### Product is seen when using GET
+![Screenshot (1750)](https://user-images.githubusercontent.com/82692900/124544738-86db6180-dddc-11eb-9d76-344bc55c308a.png)
 
 ## Contribution
 No contribbution required
